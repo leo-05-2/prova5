@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/prova5.dir/main.cpp.o -o prova5 
